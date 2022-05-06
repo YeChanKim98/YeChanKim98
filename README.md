@@ -22,18 +22,18 @@ Isn't enough to be called a skill :joy::zap:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/></a><br/><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/></a><br/>
 
 ### :blue_book:Other Languages:blue_book:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"/></a><br/><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"/></a><br/>
 
 ### :wrench:Tools:wrench:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=ffffff"/></a><br/><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Eclipse IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=ffffff"/></a><br/>
 
 ### :notebook_with_decorative_cover:Other App:notebook_with_decorative_cover:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"/></a>
