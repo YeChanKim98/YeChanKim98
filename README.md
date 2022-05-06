@@ -1,5 +1,5 @@
 ### YeChan Kim
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeChanKim98&count_bg=%23B0EBB6&title_bg=%2338D5FF&icon=github.svg&icon_color=%23EBE7E7&title=Hits&edge_flat=false"/></a><br/>
+
 
 **For Web**<br/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
@@ -31,7 +31,9 @@
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YeChanKim98&show_icons=true&include_all_commits=true&bg_color=30,2c3e50,3498db&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeChanKim98&layout=compact&bg_color=30,2c3e50,3498db&title_color=fff&text_color=fff">
-</p>
+</p><br/>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeChanKim98&count_bg=%23B0EBB6&title_bg=%2338D5FF&icon=github.svg&icon_color=%23EBE7E7&title=Hits&edge_flat=false"/></a><br/>
 
 
 
