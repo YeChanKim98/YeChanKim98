@@ -21,11 +21,11 @@
 **IDE**<br/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=intelijidea&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff"/></a><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-EclipseIDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/></a><br/>
 
 **Other App**<br/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=ffffff"/></a><br/>
 
 <p>
