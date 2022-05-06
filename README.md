@@ -14,7 +14,7 @@ Isn't enough to be called a skill :joy::zap:
   
 ### :computer:For Web:page_facing_up:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-CSS-92FE9D?style=for-the-badge&logo=css3&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=ffffff"/></a>
