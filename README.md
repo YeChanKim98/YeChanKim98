@@ -1,4 +1,5 @@
-## Who am i ?
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20I'm%20YeChan!&fontAlign=50&fontAlignY=45&fontSize=70&fontColor=000000&desc=Studying%20for%20become%20Full%20Stack%20Dev&descAlignY=20&descAlign=65)
+
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/-ssy01077@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/>
 </a><br/>
