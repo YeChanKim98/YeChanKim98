@@ -22,6 +22,7 @@ Isn't enough to be called a skill :joy::zap:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/></a><br/>
 
 ### :blue_book:Other Languages:blue_book:
