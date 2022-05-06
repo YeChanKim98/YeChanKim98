@@ -16,9 +16,9 @@
 **Other Language**<br/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++&logoColor=ffffff"/></a><br/>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-CPP-00599C?style=for-the-badge&logo=cpp&logoColor=ffffff"/></a><br/>
 
-**IDE**<br/>
+**Tools**<br/>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-IntelliJIDEA-000000?style=for-the-badge&logo=intelijidea&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff"/></a>
