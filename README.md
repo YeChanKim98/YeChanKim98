@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%20I'm%20YeChan!&fontAlign=50&fontAlignY=45&fontSize=70&fontColor=000000&desc=Studying%20for%20become%20Full%20Stack%20Dev&descAlignY=20&descAlign=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=print('Hello%20YeChan!')&fontAlign=50&fontAlignY=45&fontSize=70&fontColor=000000&desc=Studying%20for%20become%20Full%20Stack%20Dev&descAlignY=20&descAlign=65)
 
 
   
@@ -39,6 +39,7 @@ Isn't enough to be called a skill :joy::zap:
 ### :notebook_with_decorative_cover:Other App:notebook_with_decorative_cover:
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Source Tree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Virtual Box-183A61?style=for-the-badge&logo=VirtualBox&logoColor=ffffff"/></a><br/><br/>
 
