@@ -49,7 +49,9 @@ Isn't enough to be called a skill :joy::zap:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeChanKim98&layout=compact&bg_color=30,2c3e50,3498db&title_color=fff&text_color=fff">
 </p><br/>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeChanKim98&count_bg=%233498db&title_bg=%232c3e50&icon=github.svg&icon_color=%23EBE7E7&title=Hits&edge_flat=false"/>
+<a href="https://opgc.me/#/users/YeChanKim98" target="_blank"><img src="https://api.opgc.me/githubs/users/YeChanKim98/tag/?theme=prism" /></a>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeChanKim98&count_bg=%233498db&title_bg=%232c3e50&icon=github.svg&icon_color=%23EBE7E7&title=Hits&edge_flat=false"/>
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
