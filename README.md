@@ -53,7 +53,6 @@ Isn't enough to be called a skill :joy::zap:
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeChanKim98&count_bg=%233498db&title_bg=%232c3e50&icon=github.svg&icon_color=%23EBE7E7&title=Hits&edge_flat=false"/>
 
-
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 
 </div>
